@@ -1,4 +1,4 @@
-# Oeuvres-d-Art
+# Art__Oeuvres_Majeures
 Quiz sur les oeuvres d'Art importantes, leurs Auteurs, leurs Epoques et leur Appartenance à un Mouvement.
 
 Bonjour,
